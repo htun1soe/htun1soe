@@ -6,7 +6,8 @@ I'm Htun Win Soe, a computer science student with a passion for web development.
 
 * [Birthday Tracker](https://github.com/htun1soe/birthdays): A web app that stores and tracks birthdays, built using Flask and SQLite.
 * [CS50 Finance](https://github.com/htun1soe/finance): A web app that helps you manage your portfolio of stocks.
-* [Postly](https://postly-mwpe.onrender.com), a simple social media platform built with flask and SQLite that lets users manage their profiles, follow others, and browse a news feed.
+* [To-Do](https://github.com/htun1soe/to-do): A command line app to help you manage your tasks.
+* [Postly](https://postly-mwpe.onrender.com): A simple social media platform built with flask and SQLite that lets users manage their profiles, follow others, and browse a news feed.
 
 ## Courses
 
