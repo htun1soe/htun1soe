@@ -11,12 +11,12 @@ I'm Htun Win Soe, a computer science student with a passion for web development.
 
 ## Courses
 
-I've completed Harvard's [CS50x](https://cs50.harvard.edu/x/2024/) and [cs50p](https://cs50.harvard.edu/python/2022/) courses, where I gained a solid foundation in computer science and Python programming."
+I've completed Harvard's [CS50X](https://cs50.harvard.edu/x/2024/) and [CS50P](https://cs50.harvard.edu/python/2022/) courses, where I gained a solid foundation in computer science and Python programming."
 
 ## Certificates
 
-* [cs50x's certificate](https://certificates.cs50.io/a5b86ee0-c07d-4631-8160-fe8f3e4ff47f.pdf?size=letter)
-* [cs50p's certificate](https://certificates.cs50.io/8887207a-5100-4b97-b4c9-6cd4c4562f30.pdf?size=letter)
+* [CS50X's certificate](https://certificates.cs50.io/a5b86ee0-c07d-4631-8160-fe8f3e4ff47f.pdf?size=letter)
+* [CS50P's certificate](https://certificates.cs50.io/8887207a-5100-4b97-b4c9-6cd4c4562f30.pdf?size=letter)
 
 ## Contact Me
 
