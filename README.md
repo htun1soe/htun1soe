@@ -1,18 +1,16 @@
 # Hello!
 
-I am Htun Win Soe. A computer science student with strong web development skills, including experience in C, Python, PHP, and JavaScript.
-
+I'm Htun Win Soe, a computer science student with a passion for web development. My skills span technologies like C, Python, PHP, and JavaScript, which I've applied in a variety of projects.
 
 ## Projects
 
-* [Birthday Tracker](https://github.com/htun1soe/birthdays), a simple web application  that allows users to track and store birthdays.
-* [CS50 Finance](https://github.com/htun1soe/finance), a web app that helps you manage your portfolio of stocks.
-* [Postly](https://postly-mwpe.onrender.com), a simple social media platform that allows users to create profiles, manage their profiles, follow other users, and view a news feed.
+* [Birthday Tracker](https://github.com/htun1soe/birthdays): A web app that stores and tracks birthdays, built using Flask and SQLite.
+* [CS50 Finance](https://github.com/htun1soe/finance): A web app that helps you manage your portfolio of stocks.
+* [Postly](https://postly-mwpe.onrender.com), a simple social media platform built with flask and SQLite that lets users manage their profiles, follow others, and browse a news feed.
 
 ## Courses
 
-* I have recently finished [cs50x](https://cs50.harvard.edu/x/2024/), cs50's introduction to computer science and  the art of programming.
-* I also finished [cs50p](https://cs50.harvard.edu/python/2022/), cs50's introduction to programming  with Python.
+I've completed Harvard's [CS50x](https://cs50.harvard.edu/x/2024/) and [cs50p](https://cs50.harvard.edu/python/2022/) courses, where I gained a solid foundation in computer science and Python programming."
 
 ## Certificates
 
