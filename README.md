@@ -4,6 +4,7 @@ I'm Htun Win Soe, a computer science student with a passion for web development.
 
 ## Projects
 
+* [Blog](https://github.com/htun1soe/blog): A platform where you can create and share your insights with others.
 * [Birthday Tracker](https://github.com/htun1soe/birthdays): A web app that stores and tracks birthdays, built using Flask and SQLite.
 * [CS50 Finance](https://github.com/htun1soe/finance): A web app that helps you manage your portfolio of stocks.
 * [To-Do](https://github.com/htun1soe/to-do): A command line app to help you manage your tasks.
